@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - mlnet-workshop
 on:
   push:
     branches:
-      - ml-net-workshop
+      - main
 
 jobs:
   build-and-deploy:
