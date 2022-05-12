@@ -3,6 +3,8 @@
 
 name: Build and deploy ASP.Net Core app to Azure Web App - mlnet-workshop
 
+environment: release
+
 on:
   push:
     branches:
