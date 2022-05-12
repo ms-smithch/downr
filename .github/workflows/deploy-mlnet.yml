@@ -10,7 +10,6 @@ on:
 
 jobs:
   build-and-deploy:
-  environment: release
     runs-on: ubuntu-latest
 
     steps:
